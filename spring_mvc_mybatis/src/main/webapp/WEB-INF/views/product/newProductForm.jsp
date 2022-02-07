@@ -12,6 +12,7 @@
 	<body>
 		<h3>상풍 등록</h3>
 		
+		
 		<form method="post" action="/mybatis/product/insertProduct">
 			<table>
 				<tr><td>상품 번호</td><td><input type="text" id="prdNo" name="prdNo">
